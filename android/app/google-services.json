@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "907148332995",
+    "project_id": "exelynt-learning",
+    "storage_bucket": "exelynt-learning.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907148332995:android:ef7ae8d95c04d6d9dc3776",
+        "android_client_info": {
+          "package_name": "com.example.exelynt_learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907148332995-271br1j35jqde468jfi454ci70bs5sr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exelynt_learning",
+            "certificate_hash": "ca79568d0da95609aff5e06f9326ea90d7f391df"
+          }
+        },
+        {
+          "client_id": "907148332995-io4lkgedn5jt2i1q58shoobbcipa1mvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1382nBCK8-K2rBOJ8DnO7snR5yM7R9u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907148332995-io4lkgedn5jt2i1q58shoobbcipa1mvm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "907148332995-0194vhekvgctenlaj9v9u44p46lmsfkf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.exelyntLearning"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
